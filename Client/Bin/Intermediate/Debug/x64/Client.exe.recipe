@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>E:\DirectX_3DProject\Client\Bin\Debug\x64\Client.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>E:\DirectX_3DProject\Client\Bin\Debug\x64\Shader_AnimModel.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>E:\DirectX_3DProject\Client\Bin\Debug\x64\Shader_Model.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>E:\DirectX_3DProject\Client\Bin\Debug\x64\Shader_VtxNorTex.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>E:\DirectX_3DProject\Client\Bin\Debug\x64\Shader_VtxPosTex.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
